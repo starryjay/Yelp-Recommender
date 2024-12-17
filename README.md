@@ -9,13 +9,13 @@ Recommender system project for DSCI 553 - Foundations and Applications of Data M
 * Execution time: 96 seconds
 * Error distribution:
 
-| Error range (stars) | Number of ratings in range |
-| ------------ | ------------ |
-| \>=0 and <=1 | 101,530 (71.48%) |
-| \>1 and <=2 | 33,427 (23.53%) |
-| \>2 and <=3 | 6,327 (4.45%) |
-| \>3 and <=4 | 760 (0.54%) |
-| \>4 and <=5 | 0 (0.00%) |
+| Error range (stars) | Number of observations | Percentage of validation set |
+| ------------ | ------------ | ---------- |
+| \>=0 and <=1 | 101,530 | 71.48% |
+| \>1 and <=2 | 33,427 | 23.53% |
+| \>2 and <=3 | 6,327 | 4.45% |
+| \>3 and <=4 | 760 | 0.54% |
+| \>4 and <=5 | 0 | 0.00% |
 
 
 * Future improvements:
